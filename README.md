@@ -1,0 +1,3 @@
+# CourseChoose
+选排课系统
+api层接收前端传来的数据，接着将数据传到service层，service层去model层修改数据库的数据
